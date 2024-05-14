@@ -4,7 +4,7 @@
 
 此项目是通过使用开源项目[clash](https://github.com/Dreamacro/clash)作为核心程序，再结合脚本实现简单的代理功能。
 
-本项目是基于[clash-for-linux](https://github.com/wnlen/clash-for-linux)进行二次开发，使用clash-meta组件，支持`vless`协议，性能有极大改善
+本项目是基于[clash-meta-for-linux](https://github.com/wnlen/clash-meta-for-linux)进行二次开发，使用clash-meta组件，支持`vless`协议，性能有极大改善
 
 # 使用教程
 
@@ -13,7 +13,7 @@
 下载项目
 
 ```bash
-$ git clone https://github.com/wanhebin/clash-for-linux.git
+$ git clone https://github.com/sailing0505/clash-meta-for-linux.git
 ```
 
 进入到项目目录，编辑`.env`文件，修改变量`CLASH_URL`的值。
@@ -34,7 +34,7 @@ $ vim .env
 - 进入项目目录
 
 ```bash
-$ cd clash-for-linux
+$ cd clash-meta-for-linux
 ```
 
 - 运行启动脚本
@@ -103,7 +103,7 @@ https_proxy=http://127.0.0.1:7890
 - 进入项目目录
 
 ```bash
-$ cd clash-for-linux
+$ cd clash-meta-for-linux
 ```
 
 - 关闭服务
