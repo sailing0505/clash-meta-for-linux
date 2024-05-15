@@ -24,5 +24,5 @@ secret: 735c39c698bad8bd3764e5acb82aab23a94387352e7899ff2e34eb5a3a99b8a3
 
 # 您可以将静态网页资源（如 clash-dashboard）放置在一个目录中，clash 将会服务于 `RESTful API/ui`
 # 参数应填写配置目录的相对路径或绝对路径。
-external-ui: /home/j30wu/software/clash-meta-for-linux/dashboard/public
+external-ui: dashboard/public
 
